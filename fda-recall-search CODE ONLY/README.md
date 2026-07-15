@@ -2,12 +2,8 @@
 
 FDA Recall Search Assistant is a local search system for FDA food enforcement recall records. 
 
-It is a Type A + Type C hybrid: the project includes a retrieval pipeline for ingestion, preprocessing, indexing, and ranking, plus an interactive Streamlit interface with filters, query expansion, clustered browsing, pseudo-relevance feedback, and query-by-example.
+The project includes a retrieval pipeline for ingestion, preprocessing, indexing, and ranking, plus an interactive Streamlit interface with filters, query expansion, clustered browsing, pseudo-relevance feedback, and query-by-example.
 
-## **Team**
-
-- Aakriti Dahal
-- Connor Stefanovich
 
 ## **Main Features**
 
